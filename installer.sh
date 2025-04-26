@@ -2,7 +2,7 @@
 pkg install -y root-repo 
 pkg install -y git tsu python wpa-supplicant pixiewps iw
 
-git clone https://github.com/s4b7z-143/SHADOW.git
+git clone https://github.com/dark-s4b7z/SHADOW-ONESHOT.git
 
 chmod +x SHADOW/oneshot.py
 
