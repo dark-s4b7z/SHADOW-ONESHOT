@@ -34,7 +34,7 @@ sudo python oneshot.py -i wlan0 -K
 ```
 #### Running
  ```
- sudo python OneShot/oneshot.py -i wlan0 --iface-down -K
+ sudo python oneshot.py -i wlan0 --iface-down -K
  ```
 
 # Usage
